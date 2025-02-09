@@ -27,7 +27,10 @@
               <div class="row align-items-center justify-content-between">
                 <div class="col-md p-5">
                   <!-- 修改按钮类名 -->
-                  <button class="btn bg-dark text-warning">下载 Android APK</button>
+                  <a href="https://mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.cdn.bspapp.com/__UNI__D654B50__20250208224316.apk.1" class="btn bg-dark text-warning">
+                    <!-- 这里可以写按钮上显示的文字 -->
+                    下载 Android APK
+                  </a>
                 </div>
                 <div class="col-md">
                   <img src="../components/icons/download_img.svg" alt="Android Logo" width="300">
