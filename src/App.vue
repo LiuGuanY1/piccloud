@@ -21,7 +21,9 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
             <a class="nav-link" href="/about" title="下载">下载</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#/" title="登录/注册">登录/注册</a>
+            <a class="nav-link"
+              href="https://static-mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.next.bspapp.com/piccloud/index.html#/"
+              title="登录/注册">登录/注册</a>
           </li>
         </ul>
       </div>
@@ -32,7 +34,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 
 <style scoped>
 .smaller-img {
-  width: 200px; /* 设置固定宽度 */
+  width: 200px;
+  /* 设置固定宽度 */
   height: auto;
 }
 </style>
