@@ -27,7 +27,7 @@
               <div class="row align-items-center justify-content-between">
                 <div class="col-md p-5">
                   <!-- 修改按钮类名 -->
-                  <a href="https://mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.cdn.bspapp.com/__UNI__D654B50__20250220213123.apk.1" class="btn bg-dark text-warning">
+                  <a href="https://mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.cdn.bspapp.com/__UNI__D654B50__20250221132722.apk.1" class="btn bg-dark text-warning">
                     <!-- 这里可以写按钮上显示的文字 -->
                     下载 Android APK
                   </a>
