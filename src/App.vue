@@ -22,7 +22,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
           </li>
           <li class="nav-item">
             <a class="nav-link"
-              href="http://static-mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.next.bspapp.com//piccloud/index.html#/"
+              href="http://static-mp-52a185d0-9d2e-4968-af9b-07db381d8ec8.next.bspapp.com//piccloud/index.html#"
               title="登录/注册">登录/注册</a>
           </li>
         </ul>
