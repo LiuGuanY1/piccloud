@@ -22,7 +22,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'
           </li>
           <li class="nav-item">
             <a class="nav-link"
-              href="winland.site/piccloud/index.html#"
+              href="http://winland.site/piccloud/index.html#"
               title="登录/注册">登录/注册</a>
           </li>
         </ul>
